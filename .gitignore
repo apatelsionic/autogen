@@ -3,7 +3,7 @@ node_modules/
 # Project
 /.vs
 .vscode
-
+OAI_CONFIG_LIST 
 # Log files
 *.log
 
